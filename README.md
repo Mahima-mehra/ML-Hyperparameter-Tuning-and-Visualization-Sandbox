@@ -8,7 +8,7 @@ An interactive machine learning visualization platform built with Streamlit and 
 
 ---
 
-# Mode of Execution Used <img src="https://th.bing.com/th/id/R.c936445e15a65dfdba20a63e14e7df39?rik=fqWqO9kKIVlK7g&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f58481537cef1014c0b5e4968.png&ehk=dtrTKn1QsJ3%2b2TFlSfLR%2fxHdNYHdrqqCUUs8voipcI8%3d&risl=&pid=ImgRaw&r=0" title="PyCharm" alt="PyCharm" width="40" height="40">&nbsp;<img src="https://raw.githubusercontent.com/github/explore/968d1eb8fb6b704c6be917f0000283face4f33ee/topics/streamlit/streamlit.png" title="Streamlit" alt="Streamlit" width="40" height="40">
+# Mode of Execution <img src="https://raw.githubusercontent.com/github/explore/968d1eb8fb6b704c6be917f0000283face4f33ee/topics/streamlit/streamlit.png" title="Streamlit" alt="Streamlit" width="40" height="40">
 
 ## Streamlit Server
 
@@ -231,5 +231,4 @@ informative statistical graphics.</li>
 
 ## Thanks for Visiting 😄
 
-=======
->>>>>>> 91f01ee7f0fd2c36dd2abb54fbeb4b1db8612f6f
+
