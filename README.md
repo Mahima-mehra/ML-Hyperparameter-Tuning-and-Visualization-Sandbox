@@ -1,5 +1,6 @@
 # ML-Hyperparameter-Tuning-and-Visualization-Sandbox
 An interactive machine learning visualization platform built with Streamlit and Scikit-Learn that demonstrates supervised model performance and live hyperparameter tuning across dynamic datasets.
+<<<<<<< HEAD
 
 <a href = "https://ml-model-datasets-using-apps-3gy37ndiancjo2nmu36sls.streamlit.app/"><img width="960" title = "Website Image" alt="Website Image" src="https://github.com/user-attachments/assets/5ad5ba7a-8227-4b7d-80a5-d043c2810383"></a>
 <br><br>
@@ -230,3 +231,5 @@ informative statistical graphics.</li>
 
 ## Thanks for Visiting 😄
 
+=======
+>>>>>>> 91f01ee7f0fd2c36dd2abb54fbeb4b1db8612f6f
